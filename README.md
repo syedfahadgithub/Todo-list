@@ -19,7 +19,5 @@ A simple and clean Todo List application built with **React**. This app allows u
 - JavaScript (ES6+)
 - CSS (Custom classes)
 
----
 
-## 📁 Project Structure
 
